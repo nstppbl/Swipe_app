@@ -1,5 +1,7 @@
 # Swipe_app
 
+##Описание
+
 Прототип веб-приложения под мобильный телефон. Есть две области видимости, расположенных рядом горизонтально. На экране отображается только одна из них. 
 Переключение между ними производится горизонтальным свайпом. 
 Промежуточные положения, когда на экране частично видны две области видимости, возможны только в момент переключения.
@@ -10,7 +12,9 @@
 Дополнительный функционал:
 Добавлена кнопка "Clear", которая очищает весь введеный текст на странице.
 
-__
+***
+
+##Description
 
 A prototype of a web application for a mobile phone. There are two fields located horizontally side by side. Only one of them is displayed on the screen.
 Switching between them is done with a horizontal swipe.

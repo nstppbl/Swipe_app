@@ -48,7 +48,6 @@ body {
     margin: 0 auto;
     margin-top: 2rem;
     width: 250px;
-    display: flex;
     align-items: center;
     margin-bottom: 30px;
 }
@@ -69,7 +68,6 @@ textarea {
     font-size: 18px;
     width: 100px;
     height: 30px;
-    margin-left: 10px;
     border-radius: 2px;
     border: none;
     background-color: #ffd166;
@@ -78,6 +76,7 @@ textarea {
 
 #clear {
     font-size: 18px;
+    width: 100px;
     height: 30px;
     margin-left: 10px;
     border-radius: 2px;
@@ -103,6 +102,9 @@ p {
 }
 
 #input {
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
     height: 50px;
 }
 

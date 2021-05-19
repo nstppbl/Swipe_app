@@ -1,6 +1,6 @@
 # Swipe_app
 
-##Описание
+## Описание
 
 Прототип веб-приложения под мобильный телефон. Есть две области видимости, расположенных рядом горизонтально. На экране отображается только одна из них. 
 Переключение между ними производится горизонтальным свайпом. 
@@ -9,12 +9,12 @@
 Вторая область отображает текущее время.
 Вертикальная прокрутка областей видимости работает независимо для каждой области, и сохраняет позицию после горизонтальных свайпов.
 
-Дополнительный функционал:
+### Дополнительный функционал:
 Добавлена кнопка "Clear", которая очищает весь введеный текст на странице.
 
 ***
 
-##Description
+## Description
 
 A prototype of a web application for a mobile phone. There are two fields located horizontally side by side. Only one of them is displayed on the screen.
 Switching between them is done with a horizontal swipe.
@@ -23,5 +23,5 @@ The first scope contains the textarea input field. After entering text and click
 The second area displays the current time.
 Vertical scrolling of scopes works independently for each area, and keeps the position after horizontal swipes.
 
-Additional functionality:
+### Additional functionality:
 Added "Clear" button, which clears all entered text on the page.

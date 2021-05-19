@@ -27,4 +27,5 @@ Vertical scrolling of scopes works independently for each area, and keeps the po
 Added "Clear" button, which clears all entered text on the page.
 
 ***
+### Макет / Mockup
 ![image](https://user-images.githubusercontent.com/63749752/118804249-e4affa80-b8bd-11eb-8191-5b26bfacdd3d.png)

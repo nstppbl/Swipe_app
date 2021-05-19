@@ -10,6 +10,7 @@
 Дополнительный функционал:
 Добавлена кнопка "Clear", которая очищает весь введеный текст на странице.
 
+__
 
 A prototype of a web application for a mobile phone. There are two fields located horizontally side by side. Only one of them is displayed on the screen.
 Switching between them is done with a horizontal swipe.
